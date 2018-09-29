@@ -1,0 +1,16 @@
+@import "../_variables";
+
+footer {
+	background-color: $red-marvel;
+	height: 12px;
+	right: 0;
+  bottom: 0;
+  left: 0;
+  position: absolute;
+}
+
+header {
+	h1 {
+		color: $red-marvel;
+	}
+}
